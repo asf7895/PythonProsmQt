@@ -1,0 +1,1 @@
+C:\Python314\python D:\PythonProj\PythonProsmQt\main.py 
